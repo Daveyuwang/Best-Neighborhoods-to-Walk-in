@@ -10,6 +10,7 @@ In this final project, we are analyzing which Pittsburgh neighbors are the best 
 ## Result - The Best Neighborhood to walk in
 
 **The Final Winner is the Central Business District!**
+**For the complete presentation of this project, please check FinalNotebook.ipynb**
 
 
 ### Datasets used:
